@@ -37,18 +37,24 @@ Developed using **Siemens TIA Portal**, this automation system improves operatio
 - **Enhanced Safety & Fault Detection Mechanisms.**
 - **Scalable Design** for future IoT/SCADA integration.
 - **Fully Virtualized Development Workflow** using VMware.
-1. Setup and Check: ![Setup and Check](https://github.com/user-attachments/assets/ab5f9474-ee5e-480d-b19e-3f1b446359f7)
-2. SET RESET Memory Configuration: ![SET_and_RESET with Memory Setup](https://github.com/user-attachments/assets/4cdc3f8c-dff1-402f-921a-0bbf57bc6f63)
-3. Logic Gate and Equation Derivation: ![Logic Equations](https://github.com/user-attachments/assets/d76c1a46-d20c-4f40-9aa4-d895a39bacc2)
-![Logic Gate Setup](https://github.com/user-attachments/assets/d9ab3f4f-d5e1-45f1-9bf6-a46289a6fcd9)
+1. Setup and Check:
+    ![Setup and Check](https://github.com/user-attachments/assets/ab5f9474-ee5e-480d-b19e-3f1b446359f7)
+   
+3. SET RESET Memory Configuration:
+   ![SET_and_RESET with Memory Setup](https://github.com/user-attachments/assets/4cdc3f8c-dff1-402f-921a-0bbf57bc6f63)
+   
+5. Logic Gate and Equation Derivation:
+    ![Logic Equations](https://github.com/user-attachments/assets/d76c1a46-d20c-4f40-9aa4-d895a39bacc2)
+    ![Logic Gate Setup](https://github.com/user-attachments/assets/d9ab3f4f-d5e1-45f1-9bf6-a46289a6fcd9)
 
-4. Setup with SCL Instructions: ![SCL Setup](https://github.com/user-attachments/assets/75623c19-0746-4f82-a480-0aa557f0f8ad)
+7. Setup with SCL Instructions:
+   ![SCL Setup](https://github.com/user-attachments/assets/75623c19-0746-4f82-a480-0aa557f0f8ad)
 
-5. Fully Automated Simulation:
+9. Fully Automated Simulation:
    ![Fully Automated Setup and Simulation](https://github.com/user-attachments/assets/102bd21b-14e0-4d8e-8783-b1ba6426101d)
-![FAS](https://github.com/user-attachments/assets/3ffc223c-ddd0-4813-99cc-b4b40c9c43eb)
+   ![FAS](https://github.com/user-attachments/assets/3ffc223c-ddd0-4813-99cc-b4b40c9c43eb)
 
-![FAS 2](https://github.com/user-attachments/assets/7e3adc3e-c7a1-40f4-874e-ec12d8b44287)
+   ![FAS 2](https://github.com/user-attachments/assets/7e3adc3e-c7a1-40f4-874e-ec12d8b44287)
 
 
 For Project Files, please check folder. However, this setup was done in VMWare and might need extra configurations. 
